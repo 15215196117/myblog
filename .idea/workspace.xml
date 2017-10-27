@@ -1,7 +1,816 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ec7b69d-a639-4d9f-b2d1-af61d8ae970e" name="Default" comment="" />
+    <list default="true" id="5ec7b69d-a639-4d9f-b2d1-af61d8ae970e" name="Default" comment="上传文件">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/dist/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/dist/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/dist/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/dist/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/apple-touch-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/assets/flash/ZeroClipboard.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/assets/img/components.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/assets/img/devices.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/assets/img/expo-lyft.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/assets/img/expo-newsweek.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/assets/img/expo-riot.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/assets/img/expo-vogue.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/assets/img/sass-less.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/dist/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/dist/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/dist/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/dist/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/examples/screenshots/blog.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/examples/screenshots/carousel.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/examples/screenshots/cover.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/examples/screenshots/dashboard.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/examples/screenshots/equal-height-columns.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/examples/screenshots/grid.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/examples/screenshots/jumbotron-narrow.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/examples/screenshots/jumbotron.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/examples/screenshots/justified-nav.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/examples/screenshots/navbar-fixed.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/examples/screenshots/navbar-static.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/examples/screenshots/navbar.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/examples/screenshots/non-responsive.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/examples/screenshots/offcanvas.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/examples/screenshots/sign-in.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/examples/screenshots/starter-template.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/examples/screenshots/sticky-footer-navbar.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/examples/screenshots/sticky-footer.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/examples/screenshots/theme.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/dist/fonts/roboto/Roboto-Bold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/dist/fonts/roboto/Roboto-Bold.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/dist/fonts/roboto/Roboto-Light.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/dist/fonts/roboto/Roboto-Light.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/dist/fonts/roboto/Roboto-Medium.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/dist/fonts/roboto/Roboto-Medium.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/dist/fonts/roboto/Roboto-Regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/dist/fonts/roboto/Roboto-Regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/dist/fonts/roboto/Roboto-Thin.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/dist/fonts/roboto/Roboto-Thin.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/fonts/roboto/Roboto-Bold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/fonts/roboto/Roboto-Bold.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/fonts/roboto/Roboto-Light.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/fonts/roboto/Roboto-Light.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/fonts/roboto/Roboto-Medium.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/fonts/roboto/Roboto-Medium.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/fonts/roboto/Roboto-Regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/fonts/roboto/Roboto-Regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/fonts/roboto/Roboto-Thin.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/fonts/roboto/Roboto-Thin.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/images/Alan.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/images/alex.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/images/alvin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/images/bold.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/images/donate.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/images/favicon/apple-touch-icon-152x152.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/images/favicon/favicon-32x32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/images/favicon/mstile-144x144.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/images/kevin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/images/kmaterialize.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/images/m-logo-salmon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/images/macbook-left.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/images/materialize.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/images/materialize_team.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/images/menu.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/images/metaphor.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/images/motion.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/images/office.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/images/parallax-template.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/images/parallax1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/images/parallax2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/images/responsive.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/images/sample-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/images/showcase/adbeus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/images/showcase/closeheat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/images/showcase/eadbox.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/images/showcase/joelcox.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/images/showcase/kioskbrowser.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/images/showcase/roboterwelt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/images/showcase/stamplay.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/images/showcase/stephaniejagiello.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/images/showcase/varun_malhotra.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/images/showcase/visitsarasota.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/images/showcase/webonise.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/images/starter-template.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/images/toast.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/images/yuna.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/res/MaterializeLogo-3.ai" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/templates/masonry-template/background1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/templates/masonry-template/background2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/templates/masonry-template/background3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/templates/parallax-template.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/templates/parallax-template/background1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/templates/parallax-template/background2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/templates/parallax-template/background3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/templates/starter-template.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/vendor/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/vendor/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/vendor/bootstrap/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/glyphicons/flat-ui-icons-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/glyphicons/flat-ui-icons-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/glyphicons/flat-ui-icons-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/lato/lato-black.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/lato/lato-black.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/lato/lato-black.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/lato/lato-bold.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/lato/lato-bold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/lato/lato-bold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/lato/lato-bolditalic.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/lato/lato-bolditalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/lato/lato-bolditalic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/lato/lato-italic.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/lato/lato-italic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/lato/lato-italic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/lato/lato-light.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/lato/lato-light.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/lato/lato-light.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/lato/lato-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/lato/lato-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/lato/lato-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/.gitattributes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/.hound.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/CNAME" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/Gemfile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/Gemfile.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/Gruntfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/ISSUE_TEMPLATE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/_config.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/dist/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/dist/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/dist/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/dist/css/bootstrap-theme.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/dist/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/dist/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/dist/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/dist/css/bootstrap.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/dist/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/dist/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/dist/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/dist/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_data/browser-bugs.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_data/browser-features.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_data/core-team.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_data/glyphicons.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_data/sass-team.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_data/showcase.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_data/translations.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_includes/ads.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_includes/components/alerts.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_includes/components/badges.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_includes/components/breadcrumbs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_includes/components/button-dropdowns.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_includes/components/button-groups.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_includes/components/dropdowns.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_includes/components/glyphicons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_includes/components/input-groups.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_includes/components/jumbotron.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_includes/components/labels.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_includes/components/list-group.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_includes/components/media.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_includes/components/navbar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_includes/components/navs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_includes/components/page-header.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_includes/components/pagination.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_includes/components/panels.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_includes/components/progress-bars.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_includes/components/responsive-embed.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_includes/components/thumbnails.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_includes/components/wells.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_includes/css/buttons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_includes/css/code.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_includes/css/forms.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_includes/css/grid.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_includes/css/helpers.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_includes/css/images.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_includes/css/less.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_includes/css/overview.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_includes/css/responsive-utilities.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_includes/css/sass.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_includes/css/tables.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_includes/css/type.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_includes/customizer-variables.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_includes/footer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_includes/getting-started/accessibility.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_includes/getting-started/browser-device-support.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_includes/getting-started/community.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_includes/getting-started/disabling-responsiveness.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_includes/getting-started/download.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_includes/getting-started/examples.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_includes/getting-started/grunt.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_includes/getting-started/license.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_includes/getting-started/template.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_includes/getting-started/third-party-support.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_includes/getting-started/tools.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_includes/getting-started/translations.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_includes/getting-started/whats-included.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_includes/header.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_includes/js/affix.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_includes/js/alerts.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_includes/js/buttons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_includes/js/carousel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_includes/js/collapse.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_includes/js/dropdowns.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_includes/js/modal.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_includes/js/overview.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_includes/js/popovers.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_includes/js/scrollspy.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_includes/js/tabs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_includes/js/tooltips.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_includes/js/transitions.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_includes/nav/about.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_includes/nav/components.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_includes/nav/css.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_includes/nav/customize.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_includes/nav/getting-started.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_includes/nav/javascript.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_includes/nav/main.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_includes/nav/migration.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_layouts/default.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_layouts/home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_plugins/bridge.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_plugins/bugify.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_pug/customizer-nav.pug" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/_pug/customizer-variables.pug" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/about.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/assets/brand/bootstrap-outline.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/assets/brand/bootstrap-punchout.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/assets/brand/bootstrap-solid.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/assets/css/docs.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/assets/css/docs.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/assets/css/ie10-viewport-bug-workaround.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/assets/css/src/docs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/assets/css/src/pygments-manni.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/assets/js/customize.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/assets/js/docs.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/assets/js/ie-emulation-modes-warning.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/assets/js/ie10-viewport-bug-workaround.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/assets/js/ie8-responsive-file-warning.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/assets/js/raw-files.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/assets/js/src/application.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/assets/js/src/customizer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/assets/js/vendor/Blob.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/assets/js/vendor/FileSaver.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/assets/js/vendor/ZeroClipboard.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/assets/js/vendor/anchor.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/assets/js/vendor/autoprefixer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/assets/js/vendor/holder.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/assets/js/vendor/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/assets/js/vendor/jszip.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/assets/js/vendor/less.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/assets/js/vendor/uglify.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/browser-bugs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/components.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/css.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/customize.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/dist/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/dist/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/dist/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/dist/css/bootstrap-theme.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/dist/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/dist/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/dist/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/dist/css/bootstrap.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/dist/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/dist/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/dist/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/dist/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/examples/blog/blog.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/examples/blog/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/examples/carousel/carousel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/examples/carousel/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/examples/cover/cover.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/examples/cover/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/examples/dashboard/dashboard.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/examples/dashboard/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/examples/grid/grid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/examples/grid/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/examples/jumbotron-narrow/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/examples/jumbotron-narrow/jumbotron-narrow.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/examples/jumbotron/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/examples/jumbotron/jumbotron.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/examples/justified-nav/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/examples/justified-nav/justified-nav.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/examples/navbar-fixed-top/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/examples/navbar-fixed-top/navbar-fixed-top.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/examples/navbar-static-top/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/examples/navbar-static-top/navbar-static-top.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/examples/navbar/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/examples/navbar/navbar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/examples/non-responsive/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/examples/non-responsive/non-responsive.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/examples/offcanvas/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/examples/offcanvas/offcanvas.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/examples/offcanvas/offcanvas.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/examples/signin/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/examples/signin/signin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/examples/starter-template/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/examples/starter-template/starter-template.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/examples/sticky-footer-navbar/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/examples/sticky-footer-navbar/sticky-footer-navbar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/examples/sticky-footer/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/examples/sticky-footer/sticky-footer.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/examples/theme/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/examples/theme/theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/examples/tooltip-viewport/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/examples/tooltip-viewport/tooltip-viewport.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/examples/tooltip-viewport/tooltip-viewport.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/getting-started.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/javascript.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/migration.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/docs/robots.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/grunt/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/grunt/bs-commonjs-generator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/grunt/bs-glyphicons-data-generator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/grunt/bs-lessdoc-parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/grunt/bs-raw-files-generator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/grunt/change-version.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/grunt/configBridge.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/grunt/npm-shrinkwrap.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/grunt/sauce_browsers.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/js/.jscsrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/js/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/js/affix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/js/alert.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/js/button.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/js/carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/js/collapse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/js/dropdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/js/modal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/js/popover.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/js/scrollspy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/js/tab.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/js/tests/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/js/tests/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/js/tests/unit/.jshintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/js/tests/unit/affix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/js/tests/unit/alert.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/js/tests/unit/button.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/js/tests/unit/carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/js/tests/unit/collapse.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/js/tests/unit/dropdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/js/tests/unit/modal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/js/tests/unit/phantom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/js/tests/unit/popover.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/js/tests/unit/scrollspy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/js/tests/unit/tab.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/js/tests/unit/tooltip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/js/tests/vendor/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/js/tests/vendor/qunit.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/js/tests/vendor/qunit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/js/tests/visual/affix-with-sticky-footer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/js/tests/visual/affix.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/js/tests/visual/alert.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/js/tests/visual/button.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/js/tests/visual/carousel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/js/tests/visual/collapse.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/js/tests/visual/dropdown.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/js/tests/visual/modal.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/js/tests/visual/popover.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/js/tests/visual/scrollspy.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/js/tests/visual/tab.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/js/tests/visual/tooltip.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/js/tooltip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/js/transition.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/.csscomb.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/.csslintrc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/alerts.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/badges.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/bootstrap.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/breadcrumbs.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/button-groups.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/buttons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/carousel.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/close.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/code.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/component-animations.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/dropdowns.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/forms.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/glyphicons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/grid.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/input-groups.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/jumbotron.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/labels.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/list-group.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/media.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/mixins/alerts.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/mixins/background-variant.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/mixins/border-radius.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/mixins/buttons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/mixins/center-block.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/mixins/clearfix.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/mixins/forms.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/mixins/gradients.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/mixins/grid-framework.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/mixins/grid.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/mixins/hide-text.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/mixins/image.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/mixins/labels.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/mixins/list-group.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/mixins/nav-divider.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/mixins/nav-vertical-align.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/mixins/opacity.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/mixins/pagination.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/mixins/panels.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/mixins/progress-bar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/mixins/reset-filter.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/mixins/reset-text.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/mixins/resize.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/mixins/responsive-visibility.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/mixins/size.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/mixins/tab-focus.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/mixins/table-row.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/mixins/text-emphasis.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/mixins/text-overflow.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/mixins/vendor-prefixes.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/modals.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/navbar.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/navs.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/normalize.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/pager.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/pagination.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/panels.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/popovers.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/print.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/progress-bars.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/responsive-embed.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/responsive-utilities.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/scaffolding.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/tables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/theme.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/thumbnails.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/tooltip.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/type.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/utilities.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/less/wells.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/nuget/MyGet.ps1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/nuget/bootstrap.less.nuspec" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/nuget/bootstrap.nuspec" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/package.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/bootstrap-3.3.7/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/.gitattributes" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/CNAME" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/CODE_OF_CONDUCT.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/Gruntfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/css/prism.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/dist/css/materialize.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/dist/css/materialize.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/dist/js/materialize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/dist/js/materialize.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/extras/noUiSlider/nouislider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/extras/noUiSlider/nouislider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/extras/noUiSlider/nouislider.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/fab-toolbar-demo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/404.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/_footer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/_head.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/_navbar.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/_scripts.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/about.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/about/about_content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/badges.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/breadcrumbs.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/buttons.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/cards.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/carousel.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/chips.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/collapsible.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/collections.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/color.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/css-transitions.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/dialogs.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/dropdown.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/feature-discovery.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/footer.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/forms.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/fullscreen-slider-demo.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/getting-started.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/getting_started/getting_started_content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/grid.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/helpers.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/icons.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/index.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/index/index_content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/lunr.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/media-css.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/media.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/mobile.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/mobile/mobile_content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/modals.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/navbar.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/page-contents/404_content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/page-contents/badges_content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/page-contents/breadcrumbs_content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/page-contents/buttons_content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/page-contents/cards_content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/page-contents/carousel_content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/page-contents/chips_content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/page-contents/collapsible_content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/page-contents/collections_content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/page-contents/color_content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/page-contents/css-transitions_content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/page-contents/dialogs_content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/page-contents/dropdown_content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/page-contents/featureDiscovery_content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/page-contents/footer_content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/page-contents/forms_content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/page-contents/fullscreen_slider_demo_content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/page-contents/grid_content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/page-contents/helpers_content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/page-contents/icons_content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/page-contents/media-css_content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/page-contents/media_content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/page-contents/modals_content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/page-contents/navbar_content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/page-contents/pagination_content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/page-contents/parallax_content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/page-contents/parallax_demo_content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/page-contents/preloader_content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/page-contents/pulse_content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/page-contents/pushpin_content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/page-contents/pushpin_demo_content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/page-contents/sass_content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/page-contents/scrollfire_content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/page-contents/scrollspy_content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/page-contents/shadow_content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/page-contents/sideNav_content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/page-contents/table_content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/page-contents/tabs_content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/page-contents/themes_content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/page-contents/transitions_content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/page-contents/typography_content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/page-contents/waves_content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/pagination.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/parallax-demo.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/parallax.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/parallax/parallax_content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/preloader.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/pulse.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/pushpin-demo.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/pushpin.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/sass.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/scrollFire.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/scrollspy.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/search.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/shadow.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/showcase.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/showcase/showcase_content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/sideNav.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/table.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/tabs.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/themes.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/transitions.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/typography.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/jade/waves.jade" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/js/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/js/animation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/js/buttons.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/js/cards.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/js/carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/js/character_counter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/js/chips.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/js/collapsible.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/js/date_picker/picker.date.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/js/date_picker/picker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/js/date_picker/picker.time.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/js/dropdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/js/forms.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/js/global.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/js/hammer.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/js/init.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/js/initial.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/js/jquery.easing.1.4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/js/jquery.hammer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/js/jquery.timeago.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/js/materialbox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/js/modal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/js/parallax.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/js/prism.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/js/pushpin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/js/scrollFire.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/js/scrollspy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/js/sideNav.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/js/slider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/js/tabs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/js/tapTarget.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/js/toasts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/js/tooltip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/js/transitions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/js/velocity.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/js/waves.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/package-lock.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/package.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/res/MaterializeLogo-3.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/res/materialize.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/robots.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/sass/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/sass/_style.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/sass/components/_badges.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/sass/components/_buttons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/sass/components/_cards.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/sass/components/_carousel.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/sass/components/_chips.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/sass/components/_collapsible.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/sass/components/_color.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/sass/components/_dropdown.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/sass/components/_global.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/sass/components/_grid.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/sass/components/_icons-material-design.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/sass/components/_materialbox.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/sass/components/_modal.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/sass/components/_navbar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/sass/components/_normalize.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/sass/components/_preloader.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/sass/components/_pulse.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/sass/components/_roboto.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/sass/components/_sideNav.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/sass/components/_slider.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/sass/components/_table_of_contents.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/sass/components/_tabs.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/sass/components/_tapTarget.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/sass/components/_toast.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/sass/components/_tooltip.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/sass/components/_transitions.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/sass/components/_typography.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/sass/components/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/sass/components/_waves.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/sass/components/date_picker/_default.date.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/sass/components/date_picker/_default.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/sass/components/date_picker/_default.time.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/sass/components/forms/_checkboxes.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/sass/components/forms/_file-input.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/sass/components/forms/_forms.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/sass/components/forms/_input-fields.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/sass/components/forms/_radio-buttons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/sass/components/forms/_range.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/sass/components/forms/_select.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/sass/components/forms/_switches.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/sass/ghpages-materialize.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/sass/materialize.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/sitemap.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/templates/masonry-template/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/templates/masonry-template/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/templates/masonry-template/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/templates/masonry-template/js/init.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/templates/masonry-template/js/masonry.pkgd.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/templates/masonry-template/preview.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/templates/parallax-template/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/templates/parallax-template/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/templates/parallax-template/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/templates/parallax-template/js/init.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/templates/parallax-template/preview.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/templates/starter-template/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/templates/starter-template/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/templates/starter-template/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/templates/starter-template/js/init.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/templates/starter-template/preview.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/test/html/badges.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/test/html/buttons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/test/html/cards.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/test/html/carousel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/test/html/chips.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/test/html/collapsible.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/test/html/dropdown.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/test/html/fixed_navbar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/test/html/forms.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/test/html/materialbox.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/test/html/multiple_modals.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/test/html/multiple_sidenav.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/test/html/overlayZindex.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/test/html/pushpin.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/test/html/scrollfire.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/test/html/scrollspy.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/test/html/tabs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/test/html/waves.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/tests/spec/autocomplete/autocompleteFixture.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/tests/spec/autocomplete/autocompleteSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/tests/spec/cards/cardsFixture.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/tests/spec/cards/cardsSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/tests/spec/chips/chipsFixture.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/tests/spec/chips/chipsSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/tests/spec/collapsible/collapsible.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/tests/spec/collapsible/collapsibleSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/tests/spec/dropdown/dropdownFixture.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/tests/spec/dropdown/dropdownSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/tests/spec/helper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/tests/spec/materialbox/materialboxFixture.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/tests/spec/materialbox/materialboxSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/tests/spec/modal/modalFixture.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/tests/spec/modal/modalSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/tests/spec/scrollFire/scrollFireFixture.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/tests/spec/scrollFire/scrollFireSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/tests/spec/select/selectFixture.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/tests/spec/select/selectSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/tests/spec/sideNav/sideNavFixture.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/tests/spec/sideNav/sideNavSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/tests/spec/tabs/tabsFixture.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/tests/spec/tabs/tabsSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/tests/spec/toast/toastSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/tests/spec/tooltip/tooltipFixture.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/materialize/tests/spec/tooltip/tooltipSpec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/blog.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/bootstrap-theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/bootstrap-theme.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/bootstrap-theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/bootstrap-theme.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/bootstrap.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/demo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/demo.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/docs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/docs.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/docs.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/docs.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/flat-ui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/flat-ui.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/flat-ui.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/ie10-viewport-bug-workaround.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/src/demo.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/src/docs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/src/docs.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/src/prettyprint.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/src/pygments-manni.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/vendor/bootstrap/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/css/vendor/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/glyphicons/flat-ui-icons-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/glyphicons/selection.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/lato/lato-black.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/lato/lato-bold.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/lato/lato-bolditalic.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/lato/lato-italic.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/lato/lato-light.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/fonts/lato/lato-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/customize.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/docs.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/flat-ui.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/flat-ui.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/html5shiv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/ie-emulation-modes-warning.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/ie10-viewport-bug-workaround.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/ie8-responsive-file-warning.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/npm.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/prettify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/radiocheck.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/raw-files.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/respond.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/src/application.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/src/customizer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/vendor/Blob.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/vendor/FileSaver.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/vendor/ZeroClipboard.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/vendor/anchor.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/vendor/autoprefixer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/vendor/holder.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/vendor/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/vendor/jszip.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/vendor/less.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/vendor/uglify.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/js/video.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/index-dev.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/index.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/node-v6.11.4-x64 (1).msi" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Flat-UI" afterPath="$PROJECT_DIR$/src/Flat-UI" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,8 +819,8 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="main.go" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="209">
@@ -23,11 +832,66 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="index-dev.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/index-dev.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="19" column="40" lean-forward="true" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="router.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/routers/router.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding>
+                <element signature="e#17#77#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Navbar</find>
+      <find>fakelink</find>
+      <find>../../dist</find>
+      <find>href=&quot;/static</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>/static</replace>
+      <replace>href=&quot;../static</replace>
+    </replaceStrings>
   </component>
   <component name="GOROOT" path="C:\Go" />
   <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/views/index.html" />
+        <option value="$PROJECT_DIR$/views/index-dev.html" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -43,9 +907,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="495" />
-    <option name="y" value="299" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1417" />
+    <option name="y" value="8" />
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
@@ -65,7 +929,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -73,25 +937,31 @@
               <item name="mybolg" type="b2602c69:ProjectViewProjectNode" />
               <item name="mybolg" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="mybolg" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mybolg" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="PackagesPane" />
-      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../gitee.com/linker-group/lsas" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="GO_FMT" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.vendoring.notification.had.been.shown" value="true" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\GOROOT\src\myblog\static" />
+      <recent name="G:\GOROOT\src\myblog\views" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -114,6 +984,7 @@
       <module />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
@@ -125,6 +996,26 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
       <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
     </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
@@ -139,24 +1030,39 @@
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
     </configuration>
-    <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
       <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-    </configuration>
-    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
-      <option name="MAIN_CLASS_NAME" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
     </configuration>
     <configuration name="main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
       <module name="mybolg" />
       <working_directory value="$PROJECT_DIR$/" />
       <go_parameters value="-i" />
-      <kind value="FILE" />
       <filePath value="$PROJECT_DIR$/main.go" />
+      <kind value="FILE" />
       <package value="mybolg" />
       <directory value="$PROJECT_DIR$/" />
     </configuration>
@@ -174,31 +1080,61 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ec7b69d-a639-4d9f-b2d1-af61d8ae970e" name="Default" comment="" />
+      <created>1508923357843</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1508923357843</updated>
+      <workItem from="1508923359933" duration="2098000" />
+      <workItem from="1509077138663" duration="3691000" />
+      <workItem from="1509087654283" duration="4665000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10454000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="1417" y="8" width="1346" height="688" extended-state="0" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297062" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294893" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3629764" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2690513" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,19 +1145,202 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="新建项目" />
-    <option name="LAST_COMMIT_MESSAGE" value="新建项目" />
+    <MESSAGE value="上传文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="上传文件" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/routers/router.go</url>
+          <line>2</line>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/main.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="e#14#72#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="60" column="28" lean-forward="false" selection-start-line="60" selection-start-column="28" selection-end-line="60" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routers/router.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+          <folding>
+            <element signature="e#17#77#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+          <folding>
+            <element signature="e#14#72#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mindoc/glide.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routers/router.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="e#17#77#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#14#72#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mindoc/glide.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="10" lean-forward="false" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Flat-UI/less/mixins.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Flat-UI/less/flat-ui.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/index.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-513">
+          <caret line="6" column="7281" lean-forward="false" selection-start-line="6" selection-start-column="7281" selection-end-line="6" selection-end-column="7281" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/.jshintrc" />
+    <entry file="file://$PROJECT_DIR$/static/css/vendor/bootstrap/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Flat-UI/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Flat-UI/Gruntfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Flat-UI/index.html" />
+    <entry file="file://$PROJECT_DIR$/static/js/npm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/radiocheck.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
           <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding>
             <element signature="e#14#72#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="11" column="44" lean-forward="false" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4494" column="1" lean-forward="false" selection-start-line="4494" selection-start-column="1" selection-end-line="4494" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/index-dev.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="19" column="40" lean-forward="true" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routers/router.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <element signature="e#17#77#0" expanded="true" />
           </folding>
         </state>
       </provider>
