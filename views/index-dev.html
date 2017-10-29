@@ -4,31 +4,153 @@
     <meta charset="UTF-8">
     <title>young运维知识分享平台</title>
     <link rel="stylesheet" href="../static/css/bootstrap.css">
+    <link rel="stylesheet" href="../static/css/blog.css ">
+    <script src="../static/js/ie-emulation-modes-warning.js"></script>
 </head>
 <body>
-<nav class="navbar navbar-default navbar-fixed-top ">
+<div>
+<nav class="navbar navbar-default navbar-fixed-top  navbar-inverse navbar ">
     <div class="container">
         <div class="navbar-header">
             <a href="#" class="navbar-brand">品牌LOGO</a>
         </div>
-        <ul class="nav navbar-nav navbar-static-top navbar-right">
-            <li class="active"> <a href="#">首页</a></li>
-            <li> <a href="#">linux</a></li>
-            <li> <a href="#">python</a></li>
-            <li> <a href="#">golang</a></li>
-            <li> <a href="#">自动化</a></li>
-            <li> <a href="#">网络</a></li>
-            <li> <a href="#">数据库</a></li>
+        <ul class="nav navbar-nav ">
+            <li > <a href="#">首页</a></li>
+            <li class="dropdown">
+                <a href="#"class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">linux <span class="caret"></span></a>
+                <ul class="dropdown-menu">
+                    <li><a href="#">常用命令</a></li>
+                    <li><a href="#">常用软件</a></li>
+                    <li><a href="#">使用技巧</a></li>
+                    <li><a href="#">kali linux</a></li>
+                </ul></li>
+            <li class="dropdown">
+                <a href="#"class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"> 开发<span class="caret"></span></a>
+                <ul class="dropdown-menu">
+                    <li><a href="#">shell</a></li>
+                    <li><a href="#">python</a></li>
+                    <li><a href="#">golang</a></li>
+                    <li><a href="#">其他</a></li>
+                </ul></li>
+            <li class="dropdown">
+                <a href="#"class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">云计算 <span class="caret"></span></a>
+                <ul class="dropdown-menu">
+                    <li><a href="#">虚拟化</a></li>
+                    <li><a href="#">docker</a></li>
+                    <li><a href="#">saltstack</a></li>
+                    <li><a href="#">分布式</a></li>
+                </ul></li>
+            <li class="dropdown">
+                <a href="#"class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">网络 <span class="caret"></span></a>
+                <ul class="dropdown-menu">
+                    <li><a href="#">基础知识</a></li>
+                    <li><a href="#">交换&路由配置</a></li>
+                    <li><a href="#">vpn技术</a></li>
+                </ul></li>
+            <li class="dropdown">
+                <a href="#"class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">数据库 <span class="caret"></span></a>
+                <ul class="dropdown-menu">
+                    <li><a href="#">mysql</a></li>
+                    <li><a href="#">redis</a></li>
+                    <li><a href="#">mongodb</a></li>
+                    <li><a href="#">oracle</a></li>
+                </ul></li>
+            <li class="dropdown">
+                <a href="#"class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">资源下载 <span class="caret"></span></a>
+                <ul class="dropdown-menu">
+                    <li><a href="#">推荐书籍</a></li>
+                    <li><a href="#">实用软件</a></li>
+                    <li><a href="#">脚本</a></li>
+                </ul></li>
             <li> <a href="#">关于博主</a></li>
             <li> <a href="#">登录/注册</a></li>
 
         </ul>
     </div>
 </nav>
+</div>
+
+<div class="container">
+    <!--头部/备注信息-->
+    <div class="blog-header">
+        <h1 class="blog-title "></h1>
+        <p class="lead blog-description bg-info text-danger">本站收集运维常用技术文档,做简洁实用的知识分享平台,想为社区贡献一部分力量的朋友们 请用github账号登录,可以编写自己的文档库 你可以选择是否公开自己的项目,</p>
+    </div>
+
+    <div class="row">
+
+        <div class="col-sm-8 blog-main">
+
+            <div class="blog-post">
+            </div><!-- /.blog-post -->
+
+            <div class="blog-post">
+                <h2 class="blog-post-title">最近更新</h2>
+            </div><!-- /.blog-post -->
+
+            <div class="blog-post">
+                <h2 class="blog-post-title">New</h2>
+            </div><!-- /.blog-post -->
+
+            <nav>
+                <ul class="pager">
+                    <li><a href="#">Previous</a></li>
+                    <li><a href="#">Next</a></li>
+                </ul>
+            </nav>
+
+        </div><!-- /.blog-main -->
+
+
+        <!--右边栏-->
+        <div class="col-sm-3 col-sm-offset-1 blog-sidebar">
+            <p>QQ群 ,github,邮箱地址</p>
+            <div class="sidebar-module sidebar-module-inset">
+                <h4>最近更新</h4>
+                <p>hey young boy</p>
+            </div>
+            <div class="sidebar-module">
+                <h4>Archives</h4>
+                <ol class="list-unstyled">
+                    <li><a href="#">March 2014</a></li>
+                </ol>
+            </div>
+            <div class="sidebar-module">
+                <h4>友链</h4>
+                <ol class="list-unstyled">
+                    <li><a href="http://www.etiantian.org">老男孩教育</a></li>
+                    <li><a href="#">一个java程序员中的linux</a></li>
+                    <li><a href="#">运维装逼指南</a></li>
+                </ol>
+            </div>
+        </div><!-- /.blog-sidebar -->
+
+    </div><!-
+
+
+
+
+</div>
+
+
+
+<footer class=" navbar-fixed-bottom  blog-footer navbar-text ">
+    <a>young的博客 <a href="http://onepiece.press">young运维知识分享平台</a> by <a href="https://twitter.com/mdo">@mdo</a>.</a>
+</footer>
 
 <script src="../static/js/jquery.min.js"></script>
 <script src="../static/js/bootstrap.min.js"></script>
+<!--下拉菜单自动显示-->
 <script type="application/javascript">
+    $('li.dropdown').mouseover(function () {
+
+        if ($(document).width() > 767)
+            $(this).addClass('open');
+    }).mouseout(function () {
+        if ($(document).width() > 767)
+            $(this).removeClass('open');
+    });
+
 
 </script>
 </body>
