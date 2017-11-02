@@ -6,8 +6,8 @@ import (
 	"time"
 
 	"github.com/astaxie/beego/orm"
-	"github.com/lifei6671/mindoc/conf"
-	"github.com/lifei6671/mindoc/models"
+	"mybolg/conf"
+	"mybolg/models"
 )
 
 //系统安装.
