@@ -9,11 +9,11 @@ import (
 	"time"
 
 	"github.com/astaxie/beego/logs"
-	"github.com/lifei6671/mindoc/models"
-	"github.com/lifei6671/mindoc/utils"
-	"github.com/lifei6671/mindoc/graphics"
-	"github.com/lifei6671/mindoc/conf"
-	"github.com/lifei6671/mindoc/commands"
+	"mybolg/models"
+	"mybolg/utils"
+	"mybolg/graphics"
+	"mybolg/conf"
+	"mybolg/commands"
 )
 
 type SettingController struct {

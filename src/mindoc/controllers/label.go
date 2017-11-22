@@ -1,11 +1,11 @@
 package controllers
 
 import (
-	"github.com/lifei6671/mindoc/models"
+	"mybolg/models"
 	"github.com/astaxie/beego/orm"
 	"github.com/astaxie/beego"
-	"github.com/lifei6671/mindoc/conf"
-	"github.com/lifei6671/mindoc/utils"
+	"mybolg/conf"
+	"mybolg/utils"
 	"math"
 )
 

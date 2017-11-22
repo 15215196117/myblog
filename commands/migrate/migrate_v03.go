@@ -3,7 +3,7 @@ package migrate
 import (
 	"errors"
 	"github.com/astaxie/beego/orm"
-	"github.com/lifei6671/mindoc/models"
+	"mybolg/models"
 	"time"
 	"fmt"
 	"strings"

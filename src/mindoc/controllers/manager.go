@@ -9,11 +9,11 @@ import (
 	"github.com/astaxie/beego"
 	"github.com/astaxie/beego/logs"
 	"github.com/astaxie/beego/orm"
-	"github.com/lifei6671/mindoc/conf"
-	"github.com/lifei6671/mindoc/models"
-	"github.com/lifei6671/mindoc/utils"
+	"mybolg/conf"
+	"mybolg/models"
+	"mybolg/utils"
 	"path/filepath"
-	"github.com/lifei6671/mindoc/commands"
+	"mybolg/commands"
 	"strconv"
 )
 

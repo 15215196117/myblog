@@ -21,11 +21,11 @@ import (
 	"github.com/astaxie/beego/orm"
 	"github.com/boombuler/barcode"
 	"github.com/boombuler/barcode/qr"
-	"github.com/lifei6671/mindoc/commands"
-	"github.com/lifei6671/mindoc/conf"
-	"github.com/lifei6671/mindoc/models"
-	"github.com/lifei6671/mindoc/utils"
-	"github.com/lifei6671/mindoc/utils/wkhtmltopdf"
+	"mybolg/commands"
+	"mybolg/conf"
+	"mybolg/models"
+	"mybolg/utils"
+	"mybolg/utils/wkhtmltopdf"
 	"github.com/russross/blackfriday"
 )
 

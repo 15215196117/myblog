@@ -5,7 +5,7 @@ import (
 
 	"github.com/astaxie/beego/orm"
 	"github.com/astaxie/beego/logs"
-	"github.com/lifei6671/mindoc/conf"
+	"mybolg/conf"
 )
 
 type BookResult struct {

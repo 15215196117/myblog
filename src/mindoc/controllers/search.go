@@ -1,9 +1,9 @@
 package controllers
 
 import (
-	"github.com/lifei6671/mindoc/models"
-	"github.com/lifei6671/mindoc/conf"
-	"github.com/lifei6671/mindoc/utils"
+	"mybolg/models"
+	"mybolg/conf"
+	"mybolg/utils"
 	"github.com/astaxie/beego"
 	"strings"
 	"regexp"

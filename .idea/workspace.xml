@@ -2,74 +2,58 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ec7b69d-a639-4d9f-b2d1-af61d8ae970e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/time/zoneinfo.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/20170501203542.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/20170501203619.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/20170501203637.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/20170501203656.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/20170501203854.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/20170501204438.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/20170501204609.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/20170501204651.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/20170501204710.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/time/README" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/time/update.bash" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logs/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/uploads/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/account/find_password_setp1.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/account/find_password_setp2.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/account/login.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/account/mail_template.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/account/register.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/book/dashboard.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/book/edit.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/book/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/book/setting.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/book/users.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/comment/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/document/compare.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/document/default_read.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/document/export.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/document/history.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/document/html_edit_template.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/document/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/document/kancloud_read_template.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/document/markdown_edit_template.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/document/template_api.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/document/template_code.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/document/template_normal.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/errors/403.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/errors/404.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/errors/error.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/home/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/index-beego.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/label/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/label/list.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/manager/attach_detailed.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/manager/attach_list.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/manager/books.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/manager/comments.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/manager/edit_book.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/manager/edit_users.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/manager/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/manager/setting.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/manager/users.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/onekey.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/search/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/setting/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/setting/password.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/template.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/widgets/footer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/widgets/header.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/widgets/ie.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/views/index.tpl" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/widgets/footer.tpl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/widgets/header.tpl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commands/command.go" afterPath="$PROJECT_DIR$/commands/command.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commands/daemon/daemon.go" afterPath="$PROJECT_DIR$/commands/daemon/daemon.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commands/install.go" afterPath="$PROJECT_DIR$/commands/install.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commands/migrate/migrate.go" afterPath="$PROJECT_DIR$/commands/migrate/migrate.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commands/update.go" afterPath="$PROJECT_DIR$/commands/update.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/commands/migrate/migrate_v03.go" afterPath="$PROJECT_DIR$/commands/migrate/migrate_v03.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conf/app.conf" afterPath="$PROJECT_DIR$/conf/app.conf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.go" afterPath="$PROJECT_DIR$/main.go" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routers/router.go" afterPath="$PROJECT_DIR$/routers/router.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/mindoc/.travis.yml" afterPath="$PROJECT_DIR$/src/mindoc/.travis.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/mindoc/Dockerfile" afterPath="$PROJECT_DIR$/src/mindoc/Dockerfile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/mindoc/README.md" afterPath="$PROJECT_DIR$/src/mindoc/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/mindoc/appveyor.yml" afterPath="$PROJECT_DIR$/src/mindoc/appveyor.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/mindoc/commands/command.go" afterPath="$PROJECT_DIR$/src/mindoc/commands/command.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/mindoc/commands/daemon/daemon.go" afterPath="$PROJECT_DIR$/src/mindoc/commands/daemon/daemon.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/mindoc/commands/install.go" afterPath="$PROJECT_DIR$/src/mindoc/commands/install.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/mindoc/commands/migrate/migrate.go" afterPath="$PROJECT_DIR$/src/mindoc/commands/migrate/migrate.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/mindoc/commands/migrate/migrate_v03.go" afterPath="$PROJECT_DIR$/src/mindoc/commands/migrate/migrate_v03.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/mindoc/commands/update.go" afterPath="$PROJECT_DIR$/src/mindoc/commands/update.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/mindoc/controllers/account.go" afterPath="$PROJECT_DIR$/src/mindoc/controllers/account.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/mindoc/controllers/base.go" afterPath="$PROJECT_DIR$/src/mindoc/controllers/base.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/mindoc/controllers/book.go" afterPath="$PROJECT_DIR$/src/mindoc/controllers/book.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/mindoc/controllers/book_member.go" afterPath="$PROJECT_DIR$/src/mindoc/controllers/book_member.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/mindoc/controllers/document.go" afterPath="$PROJECT_DIR$/src/mindoc/controllers/document.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/mindoc/controllers/home.go" afterPath="$PROJECT_DIR$/src/mindoc/controllers/home.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/mindoc/controllers/label.go" afterPath="$PROJECT_DIR$/src/mindoc/controllers/label.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/mindoc/controllers/manager.go" afterPath="$PROJECT_DIR$/src/mindoc/controllers/manager.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/mindoc/controllers/search.go" afterPath="$PROJECT_DIR$/src/mindoc/controllers/search.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/mindoc/controllers/setting.go" afterPath="$PROJECT_DIR$/src/mindoc/controllers/setting.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/mindoc/glide.yaml" afterPath="$PROJECT_DIR$/src/mindoc/glide.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/mindoc/main.go" afterPath="$PROJECT_DIR$/src/mindoc/main.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/mindoc/models/attachment.go" afterPath="$PROJECT_DIR$/src/mindoc/models/attachment.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/mindoc/models/attachment_result.go" afterPath="$PROJECT_DIR$/src/mindoc/models/attachment_result.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/mindoc/models/book.go" afterPath="$PROJECT_DIR$/src/mindoc/models/book.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/mindoc/models/book_result.go" afterPath="$PROJECT_DIR$/src/mindoc/models/book_result.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/mindoc/models/comment.go" afterPath="$PROJECT_DIR$/src/mindoc/models/comment.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/mindoc/models/comment_vote.go" afterPath="$PROJECT_DIR$/src/mindoc/models/comment_vote.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/mindoc/models/document.go" afterPath="$PROJECT_DIR$/src/mindoc/models/document.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/mindoc/models/document_history.go" afterPath="$PROJECT_DIR$/src/mindoc/models/document_history.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/mindoc/models/label.go" afterPath="$PROJECT_DIR$/src/mindoc/models/label.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/mindoc/models/logs.go" afterPath="$PROJECT_DIR$/src/mindoc/models/logs.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/mindoc/models/member.go" afterPath="$PROJECT_DIR$/src/mindoc/models/member.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/mindoc/models/member_result.go" afterPath="$PROJECT_DIR$/src/mindoc/models/member_result.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/mindoc/models/member_token.go" afterPath="$PROJECT_DIR$/src/mindoc/models/member_token.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/mindoc/models/migrations.go" afterPath="$PROJECT_DIR$/src/mindoc/models/migrations.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/mindoc/models/options.go" afterPath="$PROJECT_DIR$/src/mindoc/models/options.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/mindoc/models/relationship.go" afterPath="$PROJECT_DIR$/src/mindoc/models/relationship.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/mindoc/routers/filter.go" afterPath="$PROJECT_DIR$/src/mindoc/routers/filter.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/mindoc/routers/router.go" afterPath="$PROJECT_DIR$/src/mindoc/routers/router.go" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/mindoc/start.sh" afterPath="$PROJECT_DIR$/src/mindoc/start.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/mindoc/views/document/template_normal.tpl" afterPath="$PROJECT_DIR$/src/mindoc/views/document/template_normal.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/mindoc/views/widgets/footer.tpl" afterPath="$PROJECT_DIR$/src/mindoc/views/widgets/footer.tpl" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/document/template_normal.html" afterPath="$PROJECT_DIR$/views/document/template_normal.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/widgets/footer.html" afterPath="$PROJECT_DIR$/views/widgets/footer.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -80,11 +64,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="main.go" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+            <state relative-caret-position="190">
+              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
               <folding>
                 <element signature="e#14#72#0" expanded="true" />
               </folding>
@@ -92,10 +76,72 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="app.conf" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/conf/app.conf">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="14" lean-forward="false" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="router.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/routers/router.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="441">
+              <caret line="89" column="0" lean-forward="true" selection-start-line="9" selection-start-column="61" selection-end-line="89" selection-end-column="0" />
+              <folding>
+                <element signature="e#17#77#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="migrate_v03.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/commands/migrate/migrate_v03.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="5" lean-forward="false" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".travis.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/mindoc/.travis.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="395">
+              <caret line="21" column="89" lean-forward="false" selection-start-line="21" selection-start-column="89" selection-end-line="21" selection-end-column="89" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.tpl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/widgets/footer.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.tpl" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/widgets/header.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="flag.go" pinned="false" current-in-tab="false">
         <entry file="file://C:/Go/src/flag/flag.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="13908">
+            <state relative-caret-position="14877">
               <caret line="792" column="0" lean-forward="false" selection-start-line="792" selection-start-column="0" selection-end-line="792" selection-end-column="0" />
               <folding>
                 <element signature="e#2407#2484#0" expanded="true" />
@@ -104,55 +150,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="command.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/commands/command.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="158">
-              <caret line="17" column="21" lean-forward="false" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="daemon.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/commands/daemon/daemon.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="129">
-              <caret line="10" column="24" lean-forward="false" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="migrate.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/commands/migrate/migrate.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="164">
-              <caret line="12" column="21" lean-forward="false" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-              <folding>
-                <element signature="e#605#731#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="install.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/commands/install.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
-              <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding>
-                <element signature="e#18#114#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="update.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/commands/update.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="114">
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding>
                 <element signature="e#18#127#0" expanded="true" />
               </folding>
@@ -163,31 +165,9 @@
       <file leaf-file-name="grace.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../github.com/lifei6671/mindoc/vendor/github.com/astaxie/beego/grace/grace.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
+            <state relative-caret-position="1748">
               <caret line="100" column="15" lean-forward="false" selection-start-line="100" selection-start-column="15" selection-end-line="100" selection-end-column="15" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="account.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/controllers/account.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
-              <caret line="13" column="11" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="default.go" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/controllers/default.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-              <folding>
-                <element signature="e#21#59#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -243,7 +223,6 @@
         <option value="$PROJECT_DIR$/controllers/manager.go" />
         <option value="$PROJECT_DIR$/controllers/search.go" />
         <option value="$PROJECT_DIR$/controllers/setting.go" />
-        <option value="$PROJECT_DIR$/conf/app.conf" />
         <option value="$PROJECT_DIR$/models/attachment.go" />
         <option value="$PROJECT_DIR$/models/attachment_result.go" />
         <option value="$PROJECT_DIR$/models/book.go" />
@@ -260,12 +239,16 @@
         <option value="$PROJECT_DIR$/models/migrations.go" />
         <option value="$PROJECT_DIR$/models/options.go" />
         <option value="$PROJECT_DIR$/models/relationship.go" />
-        <option value="$PROJECT_DIR$/routers/router.go" />
         <option value="$PROJECT_DIR$/commands/command.go" />
         <option value="$PROJECT_DIR$/commands/daemon/daemon.go" />
         <option value="$PROJECT_DIR$/commands/migrate/migrate.go" />
         <option value="$PROJECT_DIR$/commands/install.go" />
         <option value="$PROJECT_DIR$/commands/update.go" />
+        <option value="$PROJECT_DIR$/commands/migrate/migrate_v03.go" />
+        <option value="$PROJECT_DIR$/src/mindoc/.travis.yml" />
+        <option value="$PROJECT_DIR$/main.go" />
+        <option value="$PROJECT_DIR$/routers/router.go" />
+        <option value="$PROJECT_DIR$/conf/app.conf" />
       </list>
     </option>
   </component>
@@ -305,9 +288,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -315,16 +295,45 @@
               <item name="mybolg" type="b2602c69:ProjectViewProjectNode" />
               <item name="mybolg" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="mybolg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybolg" type="462c0819:PsiDirectoryNode" />
+              <item name="conf" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybolg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybolg" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybolg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybolg" type="462c0819:PsiDirectoryNode" />
+              <item name="routers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybolg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybolg" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mybolg" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mybolg" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="widgets" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="GO_FMT" value="false" />
@@ -335,14 +344,15 @@
     <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\GOPATH\src\mybolg\views\login" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\GOPATH\src\mybolg\views\widgets" />
       <recent name="C:\GOPATH\src\mybolg\src" />
       <recent name="C:\GOPATH\src\mybolg\views" />
       <recent name="G:\GOROOT\src\myblog\static" />
       <recent name="G:\GOROOT\src\myblog\views" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\GOPATH\src\mybolg\views\login" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -491,21 +501,22 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294893" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32861805" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297062" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36235037" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297062" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28731343" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29051173" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297062" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39934713" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -515,7 +526,6 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -556,13 +566,11 @@
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/controllers/default.go</url>
           <line>2</line>
-          <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/commands/install.go</url>
           <line>2</line>
-          <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
@@ -571,48 +579,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/controllers/manager.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/controllers/search.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/controllers/setting.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-594">
-          <caret line="26" column="60" lean-forward="false" selection-start-line="26" selection-start-column="60" selection-end-line="26" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conf/enumerate.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding>
-            <element signature="e#37#87#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/conf/mail.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conf/app.conf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="2" lean-forward="false" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
         </state>
       </provider>
     </entry>
@@ -742,9 +712,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="205">
           <caret line="19" column="10" lean-forward="false" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
-          <folding>
-            <element signature="e#36#243#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -759,9 +726,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding>
-            <element signature="e#16#81#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -769,9 +733,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="53">
           <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-          <folding>
-            <element signature="e#16#81#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -793,7 +754,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-61">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -822,7 +782,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-61">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -854,30 +813,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/views/book/dashboard.tpl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routers/router.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="46" lean-forward="false" selection-start-line="8" selection-start-column="46" selection-end-line="8" selection-end-column="46" />
-          <folding>
-            <element signature="e#17#77#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/views/book/dashboard.tpl" />
     <entry file="file://$PROJECT_DIR$/controllers/default.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
           <folding>
-            <element signature="e#21#59#0" expanded="true" />
+            <element signature="e#21#59#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -886,21 +828,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="178">
           <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/controllers/account.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="13" column="11" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/controllers/account.go" />
     <entry file="file://$PROJECT_DIR$/commands/daemon/daemon.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
+        <state relative-caret-position="190">
           <caret line="10" column="24" lean-forward="false" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
           <folding />
         </state>
@@ -908,7 +842,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/commands/migrate/migrate.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
+        <state relative-caret-position="228">
           <caret line="12" column="21" lean-forward="false" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
           <folding>
             <element signature="e#605#731#0" expanded="true" />
@@ -918,7 +852,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/commands/command.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="158">
+        <state relative-caret-position="323">
           <caret line="17" column="21" lean-forward="false" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
           <folding />
         </state>
@@ -926,7 +860,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/commands/install.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
+        <state relative-caret-position="209">
           <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding>
             <element signature="e#18#114#0" expanded="true" />
@@ -936,7 +870,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../github.com/lifei6671/mindoc/vendor/github.com/astaxie/beego/grace/grace.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
+        <state relative-caret-position="1748">
           <caret line="100" column="15" lean-forward="false" selection-start-line="100" selection-start-column="15" selection-end-line="100" selection-end-column="15" />
           <folding />
         </state>
@@ -944,7 +878,7 @@
     </entry>
     <entry file="file://C:/Go/src/flag/flag.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="13908">
+        <state relative-caret-position="14877">
           <caret line="792" column="0" lean-forward="false" selection-start-line="792" selection-start-column="0" selection-end-line="792" selection-end-column="0" />
           <folding>
             <element signature="e#2407#2484#0" expanded="true" />
@@ -954,21 +888,71 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/commands/update.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="114">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
             <element signature="e#18#127#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/views/widgets/footer.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/widgets/header.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/commands/migrate/migrate_v03.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="5" lean-forward="false" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mindoc/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="21" column="89" lean-forward="false" selection-start-line="21" selection-start-column="89" selection-end-line="21" selection-end-column="89" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        <state relative-caret-position="190">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding>
             <element signature="e#14#72#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routers/router.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="89" column="0" lean-forward="true" selection-start-line="9" selection-start-column="61" selection-end-line="89" selection-end-column="0" />
+          <folding>
+            <element signature="e#17#77#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conf/app.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="14" lean-forward="false" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+          <folding />
         </state>
       </provider>
     </entry>

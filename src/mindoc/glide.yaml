@@ -1,4 +1,4 @@
-package: github.com/lifei6671/mindoc
+package: mybolg
 import:
 - package: github.com/astaxie/beego
   version: ^1.8.3
